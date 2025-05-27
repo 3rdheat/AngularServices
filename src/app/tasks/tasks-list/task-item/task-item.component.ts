@@ -48,5 +48,3 @@ export class TaskItemComponent {
     this.taskService.updateTaskStatus(taskId, newStatus);
   }
 }
-
-//testing commit to github
